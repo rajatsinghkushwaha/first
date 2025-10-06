@@ -6,3 +6,7 @@ The second program that is named personalised delivers a personalised message to
 The program with the name even or odd finder I took a value of int datatype from the user and then perform modulus operation on the input provided by the user 
 The program with the name sum of natural numbers I took a value of int datatype from the user to know about the number of terms for which the user wants to find the sum of natural numbers and then perform the sum of natural numbers using the for loop
 
+
+The program with the name register allows the user to enter student name with his marks. Allows the user to modify student data. Allows the user to search for any student. Allows the user to delete any student record. Allows the user to view the data of all the students.
+
+The program with the slicing prints the origina list. Then prints the first five elements of the list. Then prints the first five elements of the list in reversed order.
